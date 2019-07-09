@@ -11,7 +11,7 @@ Add VREP files to Application
 ```pip install pypot``` and for the Torso of the robot ```pip install poppy-creature``` and ```pip install poppy-torso``
 
 
-## Connect With Me
+# Connect With Me
 
 - [Over LinkedIn](https://www.linkedin.com/in/nana-aba-turkson/)
 - [Over Instagram](https://www.instagram.com/aba.codes/?igshid=q8b8bkl9upwg)
