@@ -1,4 +1,4 @@
-# Robot hand Follow
+# Robot Arm Follow
 Dynamixel motors control of Robot Hands
 
 # Dependencies
