@@ -4,7 +4,7 @@ Dynamixel motors control of Robot Hands
 # Dependencies
 The Robotic movement is dependent on numpy and pypot. Simulator used is [VREP](http://www.coppeliarobotics.com/downloads.html)
 
-# Dependencies with VREP using MAC
+# Dependencies with VREP using MacBook
 Do not forget to add VREP files to Application
 
 # Installation
